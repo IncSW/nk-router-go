@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "../src"
+    "github.com/IncSW/nk-router-go"
 )
 
 func main() {
